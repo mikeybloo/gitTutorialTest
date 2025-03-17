@@ -1,0 +1,17 @@
+h1 {
+    background-color: black;
+    color: white;
+    display: block;
+}
+
+h2 {
+    background-color: blue;
+    color: yellow;
+    display: block;
+}
+
+h2:hover {
+    background-color: yellow;
+    color: blue;
+    font-style: italic;
+}
